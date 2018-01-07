@@ -1,3 +1,3 @@
 # f5spammer
 
-just a simple F5 spammer - no sources use decompiler
+just a simple F5 spammer made with java - no sources use decompiler
